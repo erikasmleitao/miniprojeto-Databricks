@@ -10,6 +10,20 @@ Este repositório contém meu primeiro mini projeto de **ETL (Extract, Transform
 - Salvei o resultado final em um novo arquivo (`iris_setosa.csv`)
 - Validei o pipeline lendo o arquivo final
 
+## Fluxo do Projeto
+
+### Passo 1 - Extração
+![Extração](dat01.png)
+
+### Passo 2 - Gravação
+![Gravação](dat02.png)
+
+### Passo 3 - Leitura
+![Leitura](dat03.png)
+
+### Passo 4 - Transformação
+![Transformação](dat04.png)
+
 ## Objetivo
 Praticar os conceitos básicos de ETL e mostrar como é possível estruturar um fluxo simples de dados dentro do Databricks.
 
