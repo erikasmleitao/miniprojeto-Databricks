@@ -1,6 +1,6 @@
 # Mini Projeto ETL no Databricks (Python)
 
-Este repositório contém meu primeiro mini projeto de **ETL (Extract, Transform, Load)** usando Python e pandas dentro do Databricks Community Edition.
+Este repositório contém meu primeiro mini projeto de **ETL** usando Python e pandas dentro do Databricks Community Edition.
 
 ## O que eu fiz
 - Extraí o dataset Iris de um CSV online
