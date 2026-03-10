@@ -12,16 +12,16 @@ Este repositório contém meu primeiro mini projeto de **ETL (Extract, Transform
 
 ## Fluxo do Projeto
 
-### Passo 1 - Extração
+### Passo 1 
 ![Extração](dat01.png)
 
-### Passo 2 - Gravação
+### Passo 2 
 ![Gravação](dat02.png)
 
-### Passo 3 - Leitura
+### Passo 3 
 ![Leitura](dat03.png)
 
-### Passo 4 - Transformação
+### Passo 4 
 ![Transformação](dat04.png)
 
 ## Objetivo
